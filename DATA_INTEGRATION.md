@@ -153,6 +153,16 @@ Final summary query confirms complete OLTP-to-OLAP integration across staging, f
 
 ![Screenshot 6](diagrams/Screenshot6.png)
 
+### Screenshot 7: Data quality governance evidence
+Query displays nulls, invalid values, mismatches, duplicates, orphan records.
+
+![Screenshot 7](diagrams/Screenshot7.png)
+
+### Screenshot 6: Reconciliation evidence 
+Query displays counts/totals across staging, fact, integrated layers.
+
+![Screenshot 8](diagrams/Screenshot8.png)
+
 This evidence demonstrates:
 - successful ETL-to-OLAP loading
 - working star-schema joins
