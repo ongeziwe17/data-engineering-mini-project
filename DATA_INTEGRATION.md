@@ -17,6 +17,8 @@ I worked on:
 - `sql-scripts/data-warehouse scripts/08_sinothando_populate_dimensions.sql`
 - `sql-scripts/data-warehouse scripts/09_sinothando_populate_fact_table.sql`
 - `sql-scripts/data-warehouse scripts/10_sinothando_create_customer_analytics.sql`
+- `sql-scripts/data-warehouse scripts/11_sinothando_data_quality_checks.sql`
+- `sql-scripts/data-warehouse scripts/12_sinothando_reconciliation_checks.sql`
 
 My updates are tagged with:
 
